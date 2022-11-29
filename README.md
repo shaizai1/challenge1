@@ -14,7 +14,7 @@ https://git.bootcampcontent.com/uk-edx-16-week/UK-VIRT-FE-PT-11-2022-U-LOLC.git
 ## License
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [shaiza]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
